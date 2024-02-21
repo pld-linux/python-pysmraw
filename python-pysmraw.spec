@@ -17,7 +17,7 @@ Summary:	Python 2 bindings for libsmraw library
 Summary(pl.UTF-8):	Wiązania Pythona 2 do biblioteki libsmraw
 Name:		python-pysmraw
 Version:	20230320
-Release:	1
+Release:	2
 License:	LGPL v3+
 Group:		Libraries/Python
 #Source0Download: https://github.com/libyal/libsmraw/releases
